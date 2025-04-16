@@ -7,6 +7,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=nvimgolang&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=nvimgolang&icon=1&color=3)](https://visitcount.itsvg.in)
